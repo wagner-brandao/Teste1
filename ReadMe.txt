@@ -1,1 +1,2 @@
-Testando repositórios. . .
+Testando repositórios.
+Inserida a segunda linha deste arquivo.
